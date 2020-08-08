@@ -33,5 +33,5 @@
 
 <img align="left" alt="Yo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yo4you&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/yo4you/MechanicSim
-[mechsim]: https://jarvisvanzanten.wordpress.com
+[website]: https://jarvisvanzanten.wordpress.com
+[mechsim]: https://github.com/yo4you/MechanicSim
