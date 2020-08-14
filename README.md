@@ -23,6 +23,7 @@
 
 ### 🙌 Latest Projects
 <!-- BLOG-POST-LIST:START -->
+- [Armory of Babel](https://jarvisvanzanten.wordpress.com/2020/05/20/armory-of-babel/)
 - [Reefverb](https://jarvisvanzanten.wordpress.com/2019/08/01/reefverb/)
 - [Uber Stellar](https://jarvisvanzanten.wordpress.com/2019/03/15/uber-stellar/)
 - [Simplicity](https://jarvisvanzanten.wordpress.com/2018/12/06/simplicity/)
