@@ -3,7 +3,6 @@
 ## I am a programmer, I specialize in procedural content and gameplay!
 - I'm currently working on a [Mechanic Sim][mechsim]
 - I'm currently learning more about VR development
-- I'm studying Creative Media and Game tehcnology at the moment
 
 ### 🔧 Languages and Tools:
 
